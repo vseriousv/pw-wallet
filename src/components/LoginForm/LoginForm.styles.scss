@@ -1,0 +1,11 @@
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  .LoginForm__fields{
+    margin: 10px;
+  }
+  .LoginForm__button{
+    margin: 10px;
+  }
+}

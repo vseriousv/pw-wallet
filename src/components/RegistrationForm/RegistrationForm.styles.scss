@@ -1,0 +1,11 @@
+.RegistrationForm {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  .RegistrationForm__fields{
+    margin: 10px;
+  }
+  .RegistrationForm__button{
+    margin: 10px;
+  }
+}
